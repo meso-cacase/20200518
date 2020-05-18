@@ -9,6 +9,24 @@
 
 講習で紹介するデータベースやウェブツールへのリンクです。
 
+#### Integbioデータベースカタログ ####
+
+![スクリーンショット](https://raw.githubusercontent.com/meso-cacase/20200518/master/images/integbio.png
+"スクリーンショット")
+
+  - Integbioデータベースカタログ – https://integbio.jp/dbcatalog/
+  - 統合TVによる解説動画
+    - [Integbioデータベースカタログの使い方 2017](http://togotv.dbcls.jp/20171004.html)
+
+#### 統合TV ####
+
+![スクリーンショット](https://raw.githubusercontent.com/meso-cacase/20200518/master/images/togotv.png
+"スクリーンショット")
+
+  - 統合TV – https://togotv.dbcls.jp/
+  - 統合TVによる解説動画
+    - [統合TVによる統合TVの使い方](https://togotv.dbcls.jp/welcome/guide.html)
+
 #### NCBI ####
 
 ![スクリーンショット](https://raw.githubusercontent.com/meso-cacase/20200518/master/images/ncbi_600.png
